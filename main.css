@@ -16,7 +16,7 @@ h1, h2, h3 {
 }
 
 aside {
-	
+	flex: 1;
 }
 
 footer {
@@ -34,11 +34,11 @@ img {
 }
 
 main {
-
+    flex: 2;
 }
 
 nav {
-
+	flex: 1;
 }
 
 #copyright {
@@ -46,5 +46,7 @@ nav {
 }
 
 #main-container {
-
+	display: flex;
+    justify-content: space-between;
+    gap: 20px;
 }

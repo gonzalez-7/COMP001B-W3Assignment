@@ -20,11 +20,13 @@ aside {
 }
 
 footer {
-
+	text-align: center;
+    margin-top: 20px;
 }
 
 header {
-
+	text-align: center;
+    margin-bottom: 20px;
 }
 
 img {
